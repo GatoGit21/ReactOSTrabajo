@@ -1,0 +1,24 @@
+ALEX
+
+ROS recibiendo soporte de Rusia
+https://reactos.org/forum/viewtopic.php?p=116376#p116376
+https://reactos.org/project-news/reactos-second-os-russian-governments-software-freedom-effort/
+
+Coordinadores del proyecto (solo mencionarlos)
+https://reactos.org/wiki/ReactOS_Project_Coordinator
+
+DANI
+
+Comunidad ofreciendo formación a principiantes
+https://reactos.org/forum/viewtopic.php?f=9&t=16236
+
+Vidas de los contribuidores de la comunidad, hobbiyistas...
+https://reactos.org/forum/viewtopic.php?p=144289#p144289
+
+Funcionamiento de JIRA
+https://reactos.org/wiki/A_Layman%27s_Guide_-_How_to_Create_a_JIRA_Issue
+
+Aleksey Bragin (Coordinador de ROS y su función)
+https://reactos.org/wiki/User:Fireball
+https://web.archive.org/web/20120315083511/http://www10.pic-upload.de/13.02.12/n3zgyuqlohn.jpg
+https://reactos.org/wiki/ReactOS_Project_Coordinator
