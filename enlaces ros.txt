@@ -7,6 +7,9 @@ https://reactos.org/project-news/reactos-second-os-russian-governments-software-
 Coordinadores del proyecto (solo mencionarlos)
 https://reactos.org/wiki/ReactOS_Project_Coordinator
 
+Lanzamiento de cada versión
+https://sourceforge.net/projects/reactos/files/ReactOS/
+
 DANI
 
 Comunidad ofreciendo formación a principiantes
