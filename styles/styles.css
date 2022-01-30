@@ -1,0 +1,43 @@
+body{
+	margin: 0px;
+	background-color: #ded27c;
+}
+
+main{
+	margin: 4em;
+	padding: 1em;
+	background-color: white;
+	border: 2px solid black;
+	box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+	font-family: 'Open Sans', sans-serif;
+	min-width: 500px;
+}
+
+.negrita{
+	font-weight: bold;
+}
+
+.escritorios{
+	display: flex;
+	flex-wrap: wrap;
+	padding: 1.2em;
+}
+
+.escritorio{
+	display: flex;
+	flex-direction: column;
+	border: 2px solid black;
+	padding: 0.5em;
+	align-items: center;
+	max-width: 40%;
+	min-width: 400px;
+	margin: auto;
+	margin-bottom: 2em;
+}
+
+.escritorio>img{
+	max-width: 100%;
+}
+.escritorio>span{
+	font-size: 3em;
+}
