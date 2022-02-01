@@ -1,6 +1,40 @@
 body{
 	margin: 0px;
 	background-color: #ded27c;
+	padding-top: 2em;
+}
+
+header{
+	display: flex;
+	flex-wrap: wrap;
+	position: fixed;
+	justify-content: space-around;
+	align-items: center;
+	width: 100%;
+	top: 0px;
+	left: 0px;
+	z-index: 1;
+	padding: 1em;
+	background-color: white;
+	border-bottom: 2px solid black;
+	box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+header>img{
+	width: 5em;
+}
+
+nav{
+	display: flex;
+	flex-wrap: wrap;
+	width: 85%;
+	font-family: 'Open Sans', sans-serif;	
+	justify-content: space-around;
+}
+
+nav>a{
+	font-size: 2em;
+	color: black;
 }
 
 main{
